@@ -1,3 +1,5 @@
+#!/usr/local/bin/python
+
 import random
 
 from HTMLParser import HTMLParser

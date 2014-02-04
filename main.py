@@ -1,5 +1,4 @@
-__author__ = 'gwindes'
-
+#!/usr/local/bin/python
 
 from PySide.QtCore import *
 from PySide.QtGui import *
